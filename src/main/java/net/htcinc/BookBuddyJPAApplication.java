@@ -1,0 +1,13 @@
+package net.htcinc;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class BookBuddyJPAApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(BookBuddyJPAApplication.class, args);
+	}
+
+}
