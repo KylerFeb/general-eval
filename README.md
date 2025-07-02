@@ -1,5 +1,7 @@
 # 📘 BookBuddy - Skills Test
 
+[contribution guidelines](CONTRIBUTING.md)
+
 Welcome to the BookBuddy coding challenge!
 
 Your task is to complete several features in this Spring Boot application. This test is designed to evaluate your understanding of RESTful APIs, Java development, Spring Boot, and database interaction.
