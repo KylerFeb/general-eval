@@ -5,7 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class BookBuddyJPAApplication {
-
+	
+	//main
 	public static void main(String[] args) {
 		SpringApplication.run(BookBuddyJPAApplication.class, args);
 	}
